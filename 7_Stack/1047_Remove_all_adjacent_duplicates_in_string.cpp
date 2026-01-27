@@ -17,8 +17,7 @@ public:
             st.pop();
         }
 
-        reverse(result.begin(), result.end());
-        return result;
+        reverse(result.begin(), result.end
     }
 };
 
